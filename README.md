@@ -7,14 +7,16 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/pradeep-gs-8121322a1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/i_pradeep_gs/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:gspradeep9500@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Pradeep-GS&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="profile views"/>
 
@@ -36,17 +38,7 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,netlify,figma,photoshop,premiere,ae&theme=dark" />
 
 </div>
 
@@ -55,13 +47,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-GS&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-GS&theme=radical&hide_border=true&background=0D1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-GS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Pradeep-GS&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-GS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeep-GS&theme=react-dark&hide_border=true&bg_color=0D1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-GS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165"/>
 </div>
 
 <br/>
@@ -69,15 +60,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pradeep-GS&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Pradeep-GS/Pradeep-GS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pradeep-GS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 <br/>
