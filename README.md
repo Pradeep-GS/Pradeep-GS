@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:928DAB&height=220&section=header&text=Hi%20There,%20I'm%20Pradeep%20GS%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20|%20Full-Stack%20%26%20AI/ML%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=70&duration=4000&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&height=110&lines=Pradeep;Pradeep+GS" alt="signature"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+production-ready+AI+%26+web+apps;Full-Stack+Developer+%7C+AI%2FML+Engineer;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+<sub>B.Tech AI &amp; Data Science&nbsp;&nbsp;•&nbsp;&nbsp;Full-Stack &amp; AI/ML Developer</sub>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/pradeep-gs-8121322a1/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
